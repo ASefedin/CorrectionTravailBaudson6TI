@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJWNZabozz3YtdU4fM3zkTN39gkkmfOJrDIYL/HxsoF5BVX0po8b9maJ9t7Bdq0YKNdvvwSSSTXSqGCl/8Dcuw==",
+  "success": true,
+  "projectFilePath": "H:\\CorrectionTravailBaudson6TI\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\180000\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\180000\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\180000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\180000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
